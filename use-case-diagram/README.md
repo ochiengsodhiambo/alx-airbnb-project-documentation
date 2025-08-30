@@ -1,6 +1,7 @@
 ## Use Case Diagram of the Airbnb Booking System
 
-<img width="968" height="810" alt="image" src="https://github.com/user-attachments/assets/0f71c1ae-151e-4052-b913-445d8f3c1a44" />
+<img width="1217" height="779" alt="image" src="https://github.com/user-attachments/assets/25f62d24-1e46-4628-b1a7-e88d8ee4dc25" />
+
 
 
 This use case diagram illustrates the interactions between different users and the core functionalities of the system. The system boundary ("Airbnb Clone System") encapsulates all key processes such as user management, property management, booking, payments, messaging, reviews, notifications, and administration.
